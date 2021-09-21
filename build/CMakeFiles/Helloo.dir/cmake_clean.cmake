@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Helloo.dir/2671_2.cpp.o"
+  "CMakeFiles/Helloo.dir/1920_3.cpp.o"
   "../exefolder/Helloo.pdb"
   "../exefolder/Helloo"
 )

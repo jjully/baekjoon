@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/jslee/cppDirectory/2671_2.cpp
+/home/jslee/cppDirectory/1920.cpp
 iostream
 -
-string
+stdio.h
 -
-deque
+algorithm
 -
 

@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/jslee/cppDirectory/build",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/Helloo.dir/2671_2.cpp.o -c /home/jslee/cppDirectory/2671_2.cpp",
-  "file": "/home/jslee/cppDirectory/2671_2.cpp"
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/Helloo.dir/1920_3.cpp.o -c /home/jslee/cppDirectory/1920_3.cpp",
+  "file": "/home/jslee/cppDirectory/1920_3.cpp"
 }
 ]

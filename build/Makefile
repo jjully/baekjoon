@@ -123,32 +123,32 @@ Helloo/fast:
 	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/build
 .PHONY : Helloo/fast
 
-2671_2.o: 2671_2.cpp.o
+1920_3.o: 1920_3.cpp.o
 
-.PHONY : 2671_2.o
+.PHONY : 1920_3.o
 
 # target to build an object file
-2671_2.cpp.o:
-	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/2671_2.cpp.o
-.PHONY : 2671_2.cpp.o
+1920_3.cpp.o:
+	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/1920_3.cpp.o
+.PHONY : 1920_3.cpp.o
 
-2671_2.i: 2671_2.cpp.i
+1920_3.i: 1920_3.cpp.i
 
-.PHONY : 2671_2.i
+.PHONY : 1920_3.i
 
 # target to preprocess a source file
-2671_2.cpp.i:
-	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/2671_2.cpp.i
-.PHONY : 2671_2.cpp.i
+1920_3.cpp.i:
+	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/1920_3.cpp.i
+.PHONY : 1920_3.cpp.i
 
-2671_2.s: 2671_2.cpp.s
+1920_3.s: 1920_3.cpp.s
 
-.PHONY : 2671_2.s
+.PHONY : 1920_3.s
 
 # target to generate assembly for a file
-2671_2.cpp.s:
-	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/2671_2.cpp.s
-.PHONY : 2671_2.cpp.s
+1920_3.cpp.s:
+	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/1920_3.cpp.s
+.PHONY : 1920_3.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Helloo"
 	@echo "... edit_cache"
-	@echo "... 2671_2.o"
-	@echo "... 2671_2.i"
-	@echo "... 2671_2.s"
+	@echo "... 1920_3.o"
+	@echo "... 1920_3.i"
+	@echo "... 1920_3.s"
 .PHONY : help
 
 
