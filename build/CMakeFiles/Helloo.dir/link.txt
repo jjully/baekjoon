@@ -1,1 +1,1 @@
-/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/Helloo.dir/3190.cpp.o  -o ../exefolder/Helloo 
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/Helloo.dir/temp.cpp.o  -o ../exefolder/Helloo 

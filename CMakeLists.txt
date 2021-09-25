@@ -10,7 +10,7 @@ project("utils")
 # 빌드 대상 바이너리 파일명 및 소스 파일 목록
 set(C_FILES
     #write down all file names
-    3190.cpp
+    temp.cpp
     )
 
 # 출력 디렉토리
