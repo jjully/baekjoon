@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/jslee/cppDirectory/1920.cpp
+/home/jslee/cppDirectory/3190.cpp
 iostream
 -
-stdio.h
--
-algorithm
+vector
 -
 

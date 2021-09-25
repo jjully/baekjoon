@@ -123,32 +123,32 @@ Helloo/fast:
 	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/build
 .PHONY : Helloo/fast
 
-1920_3.o: 1920_3.cpp.o
+3190.o: 3190.cpp.o
 
-.PHONY : 1920_3.o
+.PHONY : 3190.o
 
 # target to build an object file
-1920_3.cpp.o:
-	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/1920_3.cpp.o
-.PHONY : 1920_3.cpp.o
+3190.cpp.o:
+	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/3190.cpp.o
+.PHONY : 3190.cpp.o
 
-1920_3.i: 1920_3.cpp.i
+3190.i: 3190.cpp.i
 
-.PHONY : 1920_3.i
+.PHONY : 3190.i
 
 # target to preprocess a source file
-1920_3.cpp.i:
-	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/1920_3.cpp.i
-.PHONY : 1920_3.cpp.i
+3190.cpp.i:
+	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/3190.cpp.i
+.PHONY : 3190.cpp.i
 
-1920_3.s: 1920_3.cpp.s
+3190.s: 3190.cpp.s
 
-.PHONY : 1920_3.s
+.PHONY : 3190.s
 
 # target to generate assembly for a file
-1920_3.cpp.s:
-	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/1920_3.cpp.s
-.PHONY : 1920_3.cpp.s
+3190.cpp.s:
+	$(MAKE) -f CMakeFiles/Helloo.dir/build.make CMakeFiles/Helloo.dir/3190.cpp.s
+.PHONY : 3190.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Helloo"
 	@echo "... edit_cache"
-	@echo "... 1920_3.o"
-	@echo "... 1920_3.i"
-	@echo "... 1920_3.s"
+	@echo "... 3190.o"
+	@echo "... 3190.i"
+	@echo "... 3190.s"
 .PHONY : help
 
 
