@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/jslee/cppDirectory/14502_2.cpp
+/home/jslee/cppDirectory/14890.cpp
 iostream
 -
 vector
--
-cstring
--
-queue
 -
 
