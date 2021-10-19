@@ -1,5 +1,7 @@
 //baekjoon 15685_2
 //블로그 거
+//정말 well made,,
+//잘 모르겠을 땐 손으로 규칙을 찾아보자!
 #include<iostream>
 #include<vector>
  
